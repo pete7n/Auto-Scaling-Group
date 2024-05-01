@@ -1,4 +1,4 @@
-<h1>Create an Auto Scaling group</h1>
+<h1>Auto-Scaling group</h1>
 
 <h2>Description</h2>
 I created an Auto Scaling group that allowed a set of servers to recover from a failure. It was required that there must be two virtual machines running at all times. To achieve this I created a key pair, and a security group. Next, I created a launch configuration. Finally, I create an Auto Scaling group and tested it.
